@@ -15,10 +15,10 @@ For those of us without the Budgie DE dark mode toggle
 **Copy to your themes directory**
 
 ```cp -r /EvoPopDark /usr/share/themes```
-
+for all uses 
 or
 
 ```cp -r /EvoPopDark ~/.themes```
-
+for just you! 
 Then Use Gnome Tweak Tool (or whatever) to change your Applications Theme 
 
