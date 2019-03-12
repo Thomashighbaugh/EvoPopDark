@@ -1,6 +1,6 @@
 # EvoPopDark
 For those of us without the Budgie DE dark mode toggle 
-## as OF uBUNTU 18.10 A DARK MODE TOGGLE EXISTS ON GNOME UNDER THE BANNER WITH POWER SETTINGS / SETTINGS DROP DOWN 
+## as OF UBUNTU 18.10 A DARK MODE TOGGLE EXISTS ON GNOME UNDER THE BANNER WITH POWER SETTINGS / SETTINGS DROP DOWN 
 ### this still looks cooler though
 
 ## Installation
